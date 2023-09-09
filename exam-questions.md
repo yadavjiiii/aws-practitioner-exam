@@ -4,7 +4,7 @@ Which AWS service should the company use to meet this requirement? <br>
 A. AWS Auto Scaling <br>
 B. Amazon Kinesis Video Streams <br>
 C. Elastic Load Balancing <br>
-**D. Amazon CloudFront** <br>
+D. Amazon CloudFront <br>
 
 2. Which pillar of the AWS Well-Architected Framework refers to the ability of a system to recover from infrastructure or service disruptions and dynamically acquire computing resources to meet demand? <br>
 A. Security <br>
